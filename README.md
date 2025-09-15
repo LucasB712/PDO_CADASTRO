@@ -1,8 +1,8 @@
-# Sistema de Cadastro de Alunos com PDO
+📝 # Sistema de Cadastro de Alunos com PDO
 
 Este é um sistema simples para o cadastro de alunos utilizando PDO (PHP Data Objects) para persistência de dados em um banco de dados SQLite. O projeto inclui funcionalidades básicas como inserção, atualização, remoção e listagem de alunos.
 
-## Funcionalidades
+🚀 ## Funcionalidades
 
 Cadastro de Alunos: Adicionar novos alunos ao banco de dados.
 
@@ -12,7 +12,7 @@ Remoção de Alunos: Remover alunos do sistema.
 
 Listagem de Alunos: Consultar todos os alunos cadastrados no sistema.
 
-## Estrutura do Projeto
+📋 ## Estrutura do Projeto
 
 A estrutura do projeto é dividida em duas partes principais:
 
@@ -32,12 +32,13 @@ Composer (para gerenciar dependências).
 
 SQLite (para o banco de dados).
 
-## Instalação
+🚀 ## Instalação
 
 Clone o repositório para o seu ambiente local:
 
+```bash
 git clone https://github.com/seu_usuario/seu_repositorio.git
-
+```
 
 Navegue até o diretório do projeto:
 
